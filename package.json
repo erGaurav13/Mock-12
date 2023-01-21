@@ -1,0 +1,30 @@
+{
+  "name": "ergaurav13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ergaurav13.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsoni2843/ergaurav13/issues"
+  },
+  "homepage": "https://github.com/ergaurav13#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20",
+    "rand-token": "^1.0.1"
+  }
+}
